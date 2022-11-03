@@ -4,7 +4,7 @@ Repository with the code used in my master's thesis.
 
 ---
 
-*insert link for thesis*
+*(insert link for thesis)*
 
 **Hacking the privacy amplification of quantum key distribution with machine learning, and countermeasures**
 
