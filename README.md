@@ -11,4 +11,4 @@ Master's thesis of João F. Bravo
 
 Instituto Superior Técnico, Lisboa
 
-November 2022
+December 2022
